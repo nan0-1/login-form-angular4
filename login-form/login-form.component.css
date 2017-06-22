@@ -1,0 +1,16 @@
+div.input{
+      position: relative;
+}
+
+div.input label{
+      position: absolute;
+      top: 0;
+      transform: translateY(-50%);
+      left: 10px;
+      background: white;
+}
+
+div.input{
+      padding: 10px 50px;
+}
+
